@@ -1,0 +1,9 @@
+title: Cap Stars
+description: Legal and support pages for Cap Stars, published by Digitalix.
+theme: jekyll-theme-minimal
+show_downloads: false
+
+# The repository README is developer-facing and carries the pre-launch checklist; the
+# public site is served from index.md instead.
+exclude:
+  - README.md
