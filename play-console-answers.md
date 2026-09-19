@@ -26,7 +26,14 @@ through Unity's Relay. That single feature is what most of the answers below tur
 | Purpose | **App functionality** — pairing two players for an online match |
 | Is it required? | **Optional.** The whole game except online play works without it |
 | Encrypted in transit? | **Yes** |
-| Can users request deletion? | **Yes** — by email, see below |
+| Can users request deletion? | **Yes**, with the Delete data URL below |
+
+The console asks for a **Delete data URL**, not an email address, and publishes it on the
+store listing. It is
+`https://danteata.github.io/capstars-legal/delete-my-data` —
+[delete-my-data.md](delete-my-data.md) in this repository, written to Play's three
+requirements: it names Cap Stars and Digitalix as the listing does, leads with the steps,
+and says what is removed, what is kept and how long it takes.
 
 The identifier being declared is the anonymous player ID that Unity Authentication issues
 the first time you open online play. It is tied to the app installation, not to a person:

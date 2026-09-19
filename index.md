@@ -15,6 +15,7 @@ Published by Digitalix.
 
 - [Privacy Policy](privacy-policy.md)
 - [Terms of Service](terms-of-service.md)
+- [Delete my data](delete-my-data.md)
 - [Support](support.md)
 
 Cap Stars has no account, no advertising and no analytics. Played on your own, it sends
@@ -27,6 +28,6 @@ through Unity's relay servers. No name, no email and no chat are involved. The
 
 ## Support
 
-Questions, faults and feedback: **CONTACT_EMAIL_HERE**
+Questions, faults and feedback: **digitalix@gmail.com**
 
 See the [support page](support.md) for what to include in a report.

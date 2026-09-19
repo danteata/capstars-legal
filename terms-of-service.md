@@ -88,6 +88,6 @@ not remove.
 
 ## Contact
 
-**CONTACT_EMAIL_HERE**
+**digitalix@gmail.com**
 
 Digitalix, publisher of Cap Stars.

@@ -13,9 +13,10 @@ Served by GitHub Pages so Google Play has a stable, publicly reachable URL to po
 
 ## Before the listing goes live
 
-- [ ] **Replace every `CONTACT_EMAIL_HERE`.** It appears in the privacy policy, the terms,
-      the index and the support page. The listing cannot go live with the placeholder in
-      it, and a privacy policy with no working contact address is non-compliant.
+- [x] **Contact address set** to `digitalix@gmail.com`, in the privacy policy, the terms,
+      the index, the support page and the deletion page. It has to be an address that is
+      actually read: a privacy policy whose contact bounces is non-compliant, and the
+      deletion page below promises a reply within 30 days.
 - [ ] Confirm **Digitalix** is the name you want on record as publisher and data
       controller. If it is not a registered entity, naming a person is the safer choice.
 - [ ] Decide how a **deletion request** is actually served — see

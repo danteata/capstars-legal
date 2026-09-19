@@ -25,6 +25,9 @@ it:
 - the match setup you used last: arena, teams, formation, ball, weather, match length,
   CPU difficulty and the match rule toggles
 - audio and control preferences, including whether the commentary is on and how you flick
+- the anonymous online player identifier described below, once you have played online, so
+  that **Settings** can show it to you even with no connection — it is the reference you
+  would quote to have that record deleted
 
 These are written to the app's own private storage on your device using the standard
 Android mechanism for application preferences. They stay on your device, they are never
@@ -104,6 +107,9 @@ The anonymous player identifier issued by Unity when you play online is held by 
 you want that record removed, write to us at the address below and we will make the
 request on your behalf.
 
+The [Delete my data](delete-my-data.md) page sets out the steps, what is removed, and how
+long it takes.
+
 ## Changes to this policy
 
 If the game changes in a way that changes this policy, we will update this page and move
@@ -111,6 +117,6 @@ the date at the top. Material changes will be described in the app's release not
 
 ## Contact
 
-**CONTACT_EMAIL_HERE**
+**digitalix@gmail.com**
 
 Digitalix, publisher of Cap Stars.

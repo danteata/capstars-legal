@@ -6,7 +6,7 @@ title: Support
 
 Published by Digitalix.
 
-**CONTACT_EMAIL_HERE**
+**digitalix@gmail.com**
 
 ---
 
